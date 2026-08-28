@@ -11,7 +11,7 @@ What I care about most is whether a result holds up. Geospatial work tends to br
 
 ## What I am working on
 
-**Coastal ecosystem monitoring (MSc thesis).** A GeoAI framework for the Ciénaga Grande de Santa Marta, a Ramsar site on the Colombian Caribbean. Optical and radar Earth Observation fused into NetCDF datacubes, mangrove segmentation, and flooding dynamics, wired into a reproducible multi-language pipeline.
+**Coastal ecosystem monitoring.** Spatiotemporal analysis of the Ciénaga Grande de Santa Marta, a Ramsar site on the Colombian Caribbean. Optical and radar Earth Observation fused into NetCDF datacubes, mangrove segmentation, change detection, and fragmentation metrics, wired into a reproducible multi-language pipeline.
 
 **Geospatial foundation models (WEFE Nexus Orinoquía · AI4LUCA, Task 2).** Comparing Prithvi-EO-2.0, TESSERA, and AlphaEarth for land-cover classification in the Colombian Orinoquía, under a common evaluation framework with spatial partitioning and resampling controls.
 
