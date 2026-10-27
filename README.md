@@ -3,7 +3,9 @@
 **Geographer · MSc student in Geomatics, Universidad Nacional de Colombia**
 Earth Observation · GeoAI · reproducible geospatial workflows
 
-I work where Earth Observation meets land management. For the past three years I have built cartographic and spatial-data products inside Colombia's public sector, at the Instituto Geográfico Agustín Codazzi and the Agencia Nacional de Tierras: aerial imagery and GNSS/IMU processing, thematic map automation, cadastral analysis, and the technical documentation that holds all of it together.
+I work where Earth observation meets land management. For the past three years I have built cartographic and spatial-data products inside Colombia's public sector, at the Instituto Geográfico Agustín Codazzi and the Agencia Nacional de Tierras: thematic map automation, cadastral analysis, geodatabase validation, and the technical documentation that holds all of it together.
+
+In parallel, as an MSc student in Geomatics at the Universidad Nacional de Colombia, I study mangrove and coastal-wetland dynamics with Sentinel-1/2, L-band SAR (NISAR, ALOS-2) and foundation-model embeddings, always under spatial cross-validation.
 
 What I care about most is whether a result holds up. Geospatial work tends to break quietly, so most of what I publish here is about making a workflow reproducible enough that someone else can check it.
 
@@ -22,7 +24,8 @@ What I care about most is whether a result holds up. Geospatial work tends to br
 | Project | What it is |
 |---|---|
 | [**cgsm-mangrove-monitoring**](https://github.com/linaq11/cgsm-mangrove-monitoring) | Multi-language Python/R/Julia pipeline for spatiotemporal mangrove monitoring in the CGSM, 2013–2025. NetCDF datacubes, SamGeo segmentation, bfast change detection, fragmentation metrics, and an [interactive dashboard](https://linaq11.github.io/cgsm-mangrove-monitoring/dashboard.html). |
-| [**CGSM-SOLUCIONES-COSTERAS**](https://github.com/linaq11/CGSM-SOLUCIONES-COSTERAS) | Proposal for a digital twin of the functional habitat that sustains shorebirds in the CGSM. |
+| [**cgsm-alphaearth-vs-espectral**](https://github.com/linaq11/cgsm-alphaearth-vs-espectral) | AlphaEarth embeddings vs. Sentinel-2 spectral features for mangrove land-cover mapping, with spatial block cross-validation, paired tests and preregistered controls. |
+| [**cgsm-radar-banda-L**](https://github.com/linaq11/cgsm-radar-banda-L) | L-band SAR (NISAR, ALOS-2) vs. Sentinel-1 C-band for flooding under mangrove canopy, including dual-pol polarimetry (H/alpha, DpRVI). |
 
 ---
 
