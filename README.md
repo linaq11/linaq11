@@ -13,9 +13,11 @@ What I care about most is whether a result holds up. Geospatial work tends to br
 
 ## What I am working on
 
-**Geospatial foundation models (WEFE Nexus Orinoquía · AI4LUCA, Task 2).** Comparing Prithvi-EO-2.0, TESSERA, and AlphaEarth for land-cover classification in the Colombian Orinoquía, under a common evaluation framework with spatial partitioning and resampling controls.
+**Coastal ecosystem digital twin (MSc thesis).** A GeoAI-based digital twin of the Ciénaga Grande de Santa Marta, a Ramsar site on the Colombian Caribbean: an analysis-ready optical-SAR data cube (Sentinel-1/2, NISAR, ALOS-2) feeding Random Forest and SAM-based segmentation for mangrove extent and flooding dynamics over a 2,042 km² study area, validated against an interpreted 2025 reference sample with spatial block cross-validation.
 
-**Coastal ecosystem digital twin (MSc thesis).** A GeoAI-based Digital Twin for the Ciénaga Grande de Santa Marta, a Ramsar site on the Colombian Caribbean. An analysis-ready optical-SAR datacube feeding Random Forest and SAM-based segmentation for two targets: mangrove extent and flooding dynamics, over a 2,042 km² study area.
+## Recent
+
+**Geospatial foundation models (WEFE Nexus Orinoquía · AI4LUCA, Task 2, 2026).** Evaluation of Prithvi-EO-2.0, TESSERA and AlphaEarth for land-cover classification in the Colombian Orinoquía under a common framework: same labels, same classifier, spatial block cross-validation.
 
 ---
 
