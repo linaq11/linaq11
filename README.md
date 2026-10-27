@@ -17,7 +17,7 @@ What I care about most is whether a result holds up. Geospatial work tends to br
 
 ## Recent
 
-**Geospatial foundation models (WEFE Nexus Orinoquía · AI4LUCA, Task 2, 2026).** Evaluation of Prithvi-EO-2.0, TESSERA and AlphaEarth for land-cover classification in the Colombian Orinoquía under a common framework: same labels, same classifier, spatial block cross-validation.
+**Foundation models for land cover in the Colombian Orinoquía (WEFE Nexus · AI4LUCA, 2026).** Five foundation-model pipelines (fine-tuned Prithvi-EO-2.0, TerraMind and TerraFM; frozen TESSERA and AlphaEarth embeddings with Random Forest) compared over a common evaluation footprint across 258,000 km² of seasonally flooded savannas, with pre-specified rules, spatial blocks and a held-out test.
 
 ---
 
