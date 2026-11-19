@@ -17,6 +17,7 @@ I work with cadastral and land-administration data, map automation and geodataba
 
 | Project | Description |
 |---|---|
+| [gedi-mangrove-explorer](https://github.com/linaq11/gedi-mangrove-explorer) | NASA GEDI lidar over a Caribbean mangrove: canopy height, cover and biomass in an [interactive bilingual dashboard](https://linaq11.github.io/gedi-mangrove-explorer/) |
 | [CGSM-mangrove-monitoring](https://github.com/linaq11/CGSM-mangrove-monitoring) | Mangrove monitoring 2013–2025 in the Ciénaga Grande de Santa Marta with Python, R and Julia, and an [interactive dashboard](https://linaq11.github.io/CGSM-mangrove-monitoring/dashboard.html) |
 | [CGSM-radar-banda-L](https://github.com/linaq11/CGSM-radar-banda-L) | L-band radar (NISAR, ALOS-2) and Sentinel-1 for flooding under mangrove canopy |
 | [CGSM-alphaearth-vs-espectral](https://github.com/linaq11/CGSM-alphaearth-vs-espectral) | AlphaEarth embeddings vs. Sentinel-2 bands for mangrove mapping |
