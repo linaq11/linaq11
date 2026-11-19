@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/lina-maria-quintero-fonseca-436719200)
 
-Geographer and GIS analyst with experience at Colombia's National Land Agency (ANT) and national mapping agency (IGAC), and MSc student in Geomatics at the Universidad Nacional de Colombia. Open to GIS and geospatial data roles, remote or on-site.
+Geographer and GIS analyst with experience at Colombia's National Land Agency (ANT) and national mapping agency (IGAC), and MSc student in Geomatics at the Universidad Nacional de Colombia.
 
 I work with cadastral and land-administration data, map automation and geodatabase validation. My research focuses on coastal ecosystems: I map mangroves and wetlands with satellite imagery, radar and spaceborne lidar (GEDI).
 
