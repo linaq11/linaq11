@@ -25,9 +25,9 @@ What I care about most is whether a result holds up. Geospatial work tends to br
 
 | Project | What it is |
 |---|---|
-| [**cgsm-mangrove-monitoring**](https://github.com/linaq11/cgsm-mangrove-monitoring) | Multi-language Python/R/Julia pipeline for spatiotemporal mangrove monitoring in the CGSM, 2013–2025. NetCDF datacubes, SamGeo segmentation, bfast change detection, fragmentation metrics, and an [interactive dashboard](https://linaq11.github.io/cgsm-mangrove-monitoring/dashboard.html). |
-| [**cgsm-alphaearth-vs-espectral**](https://github.com/linaq11/cgsm-alphaearth-vs-espectral) | AlphaEarth embeddings vs. Sentinel-2 spectral features for mangrove land-cover mapping, with spatial block cross-validation, paired tests and preregistered controls. |
-| [**cgsm-radar-banda-L**](https://github.com/linaq11/cgsm-radar-banda-L) | L-band SAR (NISAR, ALOS-2) vs. Sentinel-1 C-band for flooding under mangrove canopy, including dual-pol polarimetry (H/alpha, DpRVI). |
+| [**cgsm-mangrove-monitoring**](https://github.com/linaq11/CGSM-mangrove-monitoring) | Multi-language Python/R/Julia pipeline for spatiotemporal mangrove monitoring in the CGSM, 2013–2025. NetCDF datacubes, SamGeo segmentation, bfast change detection, fragmentation metrics, and an [interactive dashboard](https://linaq11.github.io/CGSM-mangrove-monitoring/dashboard.html). |
+| [**cgsm-alphaearth-vs-espectral**](https://github.com/linaq11/CGSM-alphaearth-vs-espectral) | AlphaEarth embeddings vs. Sentinel-2 spectral features for mangrove land-cover mapping, with spatial block cross-validation, paired tests and preregistered controls. |
+| [**cgsm-radar-banda-L**](https://github.com/linaq11/CGSM-radar-banda-L) | L-band SAR (NISAR, ALOS-2) vs. Sentinel-1 C-band for flooding under mangrove canopy, including dual-pol polarimetry (H/alpha, DpRVI). |
 
 ---
 
