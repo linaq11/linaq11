@@ -11,6 +11,7 @@ I work with cadastral and land-administration data, map automation and geodataba
 | Project | Description |
 |---|---|
 | [parcel-boundary-toolkit](https://github.com/linaq11/parcel-boundary-toolkit) | Boundary points, bearings and metes-and-bounds descriptions from parcel polygons. Python, CLI and ArcGIS Pro toolbox |
+| [geodata-qa-toolkit](https://github.com/linaq11/geodata-qa-toolkit) | Quality checks for polygon layers before delivery: validity, overlaps, gaps, declared area and attribute rules. Python, CLI and ArcGIS Pro toolbox |
 
 ### Remote sensing research
 
@@ -31,4 +32,4 @@ I work with cadastral and land-administration data, map automation and geodataba
 
 ### Tools
 
-ArcGIS Pro, ArcPy, QGIS, Python, SQL and PostGIS, Google Earth Engine, GEDI (L2A, L2B, L4A), R
+ArcGIS Pro, ArcPy, QGIS, Python, SQL and PostGIS, Google Earth Engine, GEDI lidar, R
